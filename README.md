@@ -1,6 +1,6 @@
 # 🦴 Dogpark: A Social Network For Dogs
 
-Welcome to Dogpark. A fictionized social media for our furry friends that bark.
+Welcome to Dogpark. A fictionalized social media for our furry friends that bark.
 
 ---
 
