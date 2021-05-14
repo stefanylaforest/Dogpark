@@ -2,11 +2,11 @@
 
 Welcome to Dogpark. A fictionized social media for our furry friends that bark.
 
---
+---
 
 This project was built with **React**, **Javascript**, **Node.js**, **Express** and styled with **Styled-Components**.
 
---
+---
 
 ## Setup
 
