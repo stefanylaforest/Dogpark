@@ -2,6 +2,10 @@
 
 Welcome to Dogpark. A fictionized social media for our furry friends that bark.
 
+<img src='screenshots/signed-in-homepage.png' style='width:100%' />
+<img src='screenshots/profile-page-with-hover-on-jocelyn.png' style='width:100%' />
+<img src='screenshots/sign-up-page-with-error.png' style='width:100%' />
+
 ---
 
 This project was built with **React**, **Javascript**, **Node.js**, **Express** and styled with **Styled-Components**.
@@ -27,3 +31,5 @@ Use `yarn dev:frontend` to start the frontend dev environment.
 3. Type `yarn install`
 
 Use `yarn dev:backend` to start the backend dev environment.
+
+Once your all set up head over to http://localhost:3000/
